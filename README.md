@@ -1,2 +1,2 @@
 # router---firmware---reverse-engineering
-Aqui irei documentar sobre o estudo de a extração de firmware de um roteador Wi-Fi e, possivelmente, sua engenharia reversa.
+Aqui irei documentar sobre o estudo de extração de firmware de um roteador Wi-Fi e, possivelmente, sua engenharia reversa.
