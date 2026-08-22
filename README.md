@@ -16,4 +16,13 @@ Então esse README também serve como um diário de aprendizado para mim e possi
 - Documentar as descobertas realizadas durante o processo.
 - Investigar a possibilidade de realizar engenharia reversa do dispositivo.
 
-### Motivação
+
+### Roteador fechado
+<img src="hardware/roteador-fechado.jpg" width="420">
+
+O roteador utilizado neste estudo é um D-Link DIR-611.
+
+### Placa aberta
+<img src="hardware/placa-aberta.jpg" width="420">
+
+Essa é a placa do roteador em si, ainda sem a identificação dos componentes.
