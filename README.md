@@ -1,6 +1,16 @@
 ### Extração de Firmware de um Roteador Wi-fi
 Aqui irei documentar sobre o estudo de extração de firmware de um roteador Wi-Fi e, possivelmente, sua engenharia reversa.
 
+### Roteador fechado
+<img src="hardware/roteador-fechado.jpg" width="420">
+
+O roteador utilizado neste estudo é um D-Link DIR-611.
+
+### Placa aberta
+<img src="hardware/placa-aberta.jpg" width="420">
+
+Essa é a placa do roteador em si, ainda sem a identificação dos componentes.
+
 ### Sobre o projeto 
 Esse repositório tem como objetivo documentar minha jornada de aprendizado em extração e analise de firmware e engenharia reversa, o alvo que será usado aqui é um roteador Wi-Fi [D-LINK DIR-611].
 O objetivo é puramente educacional: entender como um dispositivo físico funciona por dentro desde de seus componentes, extração física da memória, até a análise do sistema de arquivos e binários.
@@ -15,14 +25,3 @@ Então esse README também serve como um diário de aprendizado para mim e possi
 - Analisar o firmware extraído.
 - Documentar as descobertas realizadas durante o processo.
 - Investigar a possibilidade de realizar engenharia reversa do dispositivo.
-
-
-### Roteador fechado
-<img src="hardware/roteador-fechado.jpg" width="420">
-
-O roteador utilizado neste estudo é um D-Link DIR-611.
-
-### Placa aberta
-<img src="hardware/placa-aberta.jpg" width="420">
-
-Essa é a placa do roteador em si, ainda sem a identificação dos componentes.
