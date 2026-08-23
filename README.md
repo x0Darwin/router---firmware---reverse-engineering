@@ -21,7 +21,6 @@ Então esse README também serve como um diário de aprendizado para mim e possi
 ### Objetivos
 
 - Estudar o processo de extração do firmware do roteador.
-- Identificar os métodos e interfaces que podem ser utilizados para obter o firmware.
 - Analisar o firmware extraído.
 - Documentar as descobertas realizadas durante o processo.
 - Investigar a possibilidade de realizar engenharia reversa do dispositivo.
